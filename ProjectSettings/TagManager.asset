@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - ComputerCase
+  - Motherboard
+  - CPU
+  - Cooler
+  - RAM
+  - hint_ram
+  - HDD
+  - hint_hdd
+  - PSU
+  - GPU
+  - cableMOBO
+  - cableHDD1_1
+  - cableHDD1_2
+  - cableHDD2_1
+  - cableHDD2_2
+  - cableGPU1
+  - cableGPU2
+  - buttonMOBO
+  - buttonHDD1
+  - buttonHDD2
+  - buttonGPU1
+  - pc1
+  - Screwdriver
+  - English
+  - Greek
+  - SettingsButton
+  - SettingsMenu
+  - Dropdown
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - XR Simulation
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
