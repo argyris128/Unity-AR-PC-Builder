@@ -4,6 +4,8 @@
 
 # συντήρηση/επισκευή/εγκατάσταση H/Y
 
+[Watch gameplay video](https://drive.google.com/file/d/1ux8CMCZL0flt2WqPDu_59s1GK23niUog/view?usp=sharing)
+
 <img width="216" height="444" alt="Screenshot_20251001-183607_AR_PC_Builder" src="https://github.com/user-attachments/assets/2b6efe9c-0b5f-49ff-981c-a83573894fda" />
 <img width="216" height="444" alt="Screenshot_20251001-183645_AR_PC_Builder" src="https://github.com/user-attachments/assets/dcbb88ac-07cf-499e-9fda-c227fd8d0d33" />
 <img width="216" height="444" alt="Screenshot_20251001-183751_AR_PC_Builder" src="https://github.com/user-attachments/assets/dd7a9695-b72d-491e-bd62-e4c22f15ebac" />
